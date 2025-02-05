@@ -75,7 +75,7 @@ function showMessage(response) {
     yesMessage.textContent = "See you on the 14th, MY BANTUT!";
     yesMessage.style.display = "block";
     yesMessage.style.fontStyle = "normal";
-    document.getElementsByClassName("image")[0].src = "images/VALENTINEGIFT.jpeg";
+    document.getElementsByClassName("image")[0].src = "images/VALENTINEGIFT.jpeg.jpg";
 
     // Remove the "Yes" button
     document.getElementById("yesButton").remove();
