@@ -1,5 +1,0 @@
-cd /path/to/your/repository
-touch newfile.txt           # or move your existing file here
-git add newfile.txt
-git commit -m "Add newfile.txt to the repository"
-git push origin main
