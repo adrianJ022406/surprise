@@ -28,7 +28,7 @@ function showMessage(response) {
     noButton.addEventListener("mouseover", () => {
       if (!videoPlayed) {
         const videoElement = document.createElement("video");
-        videoElement.src = "./MALAYKO.mp4#t=42";
+        videoElement.src = "./MALAYKO.mp4.mp4#t=42";
         videoElement.autoplay = true;
         videoElement.controls = false;
         document.body.appendChild(videoElement);
